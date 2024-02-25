@@ -1,66 +1,47 @@
-# Project Title
+# Video Club Management System
 
-One Paragraph of project description goes here
+This project is a JavaScript program that simulates a basic video club management system. It allows users to add movies to the club's inventory, search for movies by title, and list all available movies.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will guide you to set up the project on your local machine for development and testing purposes.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+To run this project, you need to have Node.js installed on your machine. You can download and install it from Node.js official website.
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+1. Clone this repository to your local machine.
+2. Navigate to the project directory in your terminal.
+3. Run npm install to install the dependencies.
 
-Say what the step will be
+## Running the program
+After installing the dependencies, you can run the program by executing the following command:
 
-```
-Give the example
-```
+node video-club.js
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+This will execute the JavaScript file containing the video club management system.
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+No test
 
 ### Break down into end to end tests
 
-Explain what these tests test and why
-
-```
-Give an example
-```
+No test
 
 ### And coding style tests
 
-Explain what these tests test and why
-
-```
-Give an example
-```
+no coding style 
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+No deployment yet
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+This project is built with JavaScript.
 
 ## Contributing
 
@@ -68,21 +49,20 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+1.0
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Jose Antonio Lomeli Garcia** - *Initial work* 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the UACH License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc.
 
